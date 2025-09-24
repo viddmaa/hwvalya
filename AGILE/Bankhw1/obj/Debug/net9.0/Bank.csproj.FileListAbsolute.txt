@@ -1,0 +1,14 @@
+/Users/vidmaa/Documents/AGILE/Bank/bin/Debug/net9.0/Bank
+/Users/vidmaa/Documents/AGILE/Bank/bin/Debug/net9.0/Bank.deps.json
+/Users/vidmaa/Documents/AGILE/Bank/bin/Debug/net9.0/Bank.runtimeconfig.json
+/Users/vidmaa/Documents/AGILE/Bank/bin/Debug/net9.0/Bank.dll
+/Users/vidmaa/Documents/AGILE/Bank/bin/Debug/net9.0/Bank.pdb
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.AssemblyInfoInputs.cache
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.AssemblyInfo.cs
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.csproj.CoreCompileInputs.cache
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.dll
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/refint/Bank.dll
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.pdb
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/Bank.genruntimeconfig.cache
+/Users/vidmaa/Documents/AGILE/Bank/obj/Debug/net9.0/ref/Bank.dll
