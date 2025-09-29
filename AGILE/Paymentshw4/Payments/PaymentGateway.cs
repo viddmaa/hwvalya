@@ -4,7 +4,7 @@ namespace Payments;
 
 public class PaymentGateway
 {
-    private string providerName;
+    private string providerName = "";
     private bool sandbox;
 
     public string ProviderName

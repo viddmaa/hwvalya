@@ -4,7 +4,7 @@ namespace Payments;
 
 public class WalletGateway : PaymentGateway
 {
-    private string walletId;
+    private string walletId = "";
 
     public string WalletId
     {

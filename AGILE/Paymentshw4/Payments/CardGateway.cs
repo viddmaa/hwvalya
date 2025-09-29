@@ -4,7 +4,7 @@ namespace Payments;
 
 public class CardGateway : PaymentGateway
 {
-    private string maskedPan;
+    private string maskedPan = "**** **** **** ????";
 
     public string MaskedPan
     {

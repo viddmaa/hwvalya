@@ -4,7 +4,7 @@ namespace Payments;
 
 public class CryptoWallet : WalletGateway
 {
-    private string network;
+    private string network = "";
 
     public string Network
     {
