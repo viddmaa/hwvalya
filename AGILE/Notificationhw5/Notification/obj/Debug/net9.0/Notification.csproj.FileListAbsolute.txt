@@ -1,0 +1,15 @@
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\bin\Debug\net9.0\Notification.exe
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\bin\Debug\net9.0\Notification.deps.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\bin\Debug\net9.0\Notification.runtimeconfig.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\bin\Debug\net9.0\Notification.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\bin\Debug\net9.0\Notification.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.AssemblyInfoInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.AssemblyInfo.cs
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.csproj.CoreCompileInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.sourcelink.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\refint\Notification.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\Notification.genruntimeconfig.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\Notificationhw5\Notification\obj\Debug\net9.0\ref\Notification.dll
