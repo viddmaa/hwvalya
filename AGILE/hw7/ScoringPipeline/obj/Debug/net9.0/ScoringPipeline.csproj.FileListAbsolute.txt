@@ -1,0 +1,15 @@
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\bin\Debug\net9.0\ScoringPipeline.exe
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\bin\Debug\net9.0\ScoringPipeline.deps.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\bin\Debug\net9.0\ScoringPipeline.runtimeconfig.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\bin\Debug\net9.0\ScoringPipeline.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\bin\Debug\net9.0\ScoringPipeline.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.AssemblyInfoInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.AssemblyInfo.cs
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.csproj.CoreCompileInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.sourcelink.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\refint\ScoringPipeline.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ScoringPipeline.genruntimeconfig.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw7\ScoringPipeline\obj\Debug\net9.0\ref\ScoringPipeline.dll
