@@ -1,0 +1,15 @@
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\bin\Debug\net9.0\Bestiary.exe
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\bin\Debug\net9.0\Bestiary.deps.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\bin\Debug\net9.0\Bestiary.runtimeconfig.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\bin\Debug\net9.0\Bestiary.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\bin\Debug\net9.0\Bestiary.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.AssemblyInfoInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.AssemblyInfo.cs
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.csproj.CoreCompileInputs.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.sourcelink.json
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\refint\Bestiary.dll
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.pdb
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\Bestiary.genruntimeconfig.cache
+C:\Users\vidmaa\Documents\GitHub\hwvalya\AGILE\hw9\Bestiary\obj\Debug\net9.0\ref\Bestiary.dll
